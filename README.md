@@ -4,7 +4,7 @@
 
 ### Architecture Diagrams and Configuration Screenshots
 
-#### AWS Architecture Overview
+#### Architecture diagram
 ![AWS Architecture](Design%20and%20Deploy%20a%20Secure%20AWS%20VPC%20Infrastructure/AWS-ARCHITECTURE.jpg)
 
 #### VPC Dashboard: Confirming the custom VPC name and the 10.0.0.0/16 
