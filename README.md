@@ -5,7 +5,7 @@
 ### Architecture Diagrams and Configuration Screenshots
 
 #### AWS Architecture Overview
-![AWS Architecture](aws-architecture.jpg)
+![AWS Architecture](AWS-ARCHITECTURE.jpg)
 
 #### VPC Dashboard: Confirming the custom VPC name and the 10.0.0.0/16 
 CIDR block. 
